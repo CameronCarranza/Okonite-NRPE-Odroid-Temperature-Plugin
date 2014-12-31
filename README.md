@@ -13,4 +13,4 @@ These units are run in an industrial environment without any protection (yet), a
 
 Example output through Nagios3.
 
-<img src="http://i.imgur.com/bRnuVHa.png"/>
+<img src="https://i.imgur.com/ypndXGG.png"/>
